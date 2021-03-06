@@ -1,0 +1,2 @@
+Mnemonic: symbol rescue hood annual test feature impact cloud census ordinary immune balance
+BIP39 Seed: 6c5bd0c44e6322a2ac6fb042105e5022a767d49d8f64acbf240b61ee5fc901671a150ff239f1d9e3e0731c80b94d4c736fcd7ffa76c5025ff2d84a29b95792f0

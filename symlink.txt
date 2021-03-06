@@ -1,0 +1,1 @@
+symlink is a virtual file or folder that links to the actual file or folder.
